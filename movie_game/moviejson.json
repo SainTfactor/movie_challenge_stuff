@@ -1,0 +1,1181 @@
+[
+ {
+   "Date": "1/5/18",
+   "Name": "Molly's Game",
+   "\"Genre\"": "Adaptation",
+   "Tim Genre": "Rom-Com",
+   "Tim": 8,
+   "Tyler Genre": "Effing Idris Elba",
+   "Tyler": 8
+ },
+ {
+   "Date": "1/5/18",
+   "Name": "Insidious: The Last Key",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "Oil",
+   "Tim": 2.7,
+   "Tyler Genre": "V8 Commercial",
+   "Tyler": 3.1
+ },
+ {
+   "Date": "1/12/18",
+   "Name": "The Post",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "Documentary",
+   "Tim": 8.4,
+   "Tyler Genre": "Docu\"drama\"",
+   "Tyler": 7.6
+ },
+ {
+   "Date": "1/12/18",
+   "Name": "The Commuter",
+   "\"Genre\"": "Suspense",
+   "Tim Genre": "Definitely Liam Neeson",
+   "Tim": 7.5,
+   "Tyler Genre": "Liam Neeson",
+   "Tyler": 8.7
+ },
+ {
+   "Date": "1/12/18",
+   "Name": "Proud Mary",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "something",
+   "Tim": 4.3,
+   "Tyler Genre": "Mary the Professional",
+   "Tyler": 5.8
+ },
+ {
+   "Date": "1/12/18",
+   "Name": "Paddington 2",
+   "\"Genre\"": "Family",
+   "Tim Genre": "Family...",
+   "Tim": 7.8,
+   "Tyler Genre": "I cried a bit",
+   "Tyler": 8.2
+ },
+ {
+   "Date": "1/19/18",
+   "Name": "12 Strong",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "Merica!",
+   "Tim": 8.4,
+   "Tyler Genre": "Mismarketed",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "1/19/18",
+   "Name": "Forever My Girl",
+   "\"Genre\"": "Adaptation",
+   "Tim Genre": "Horror",
+   "Tim": 4.5,
+   "Tyler Genre": "Drugs, Sex, and Country Tunes",
+   "Tyler": 6.5
+ },
+ {
+   "Date": "1/19/18",
+   "Name": "Den of Thieves",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "Fiddle",
+   "Tim": 7.1,
+   "Tyler Genre": "Discount Reservoir Dogs",
+   "Tyler": 5.3
+ },
+ {
+   "Date": "1/26/18",
+   "Name": "Maze Runner: The Death Cure",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Falls don't kill",
+   "Tim": 4.2,
+   "Tyler Genre": "White girl can't jump",
+   "Tyler": 5.7
+ },
+ {
+   "Date": "1/26/18",
+   "Name": "Hostiles",
+   "\"Genre\"": "Drama/Action",
+   "Tim Genre": "WesternTrope.jpg",
+   "Tim": 6.3,
+   "Tyler Genre": "Batman at the OK Corral",
+   "Tyler": 6.8
+ },
+ {
+   "Date": "2/2/18",
+   "Name": "Winchester",
+   "\"Genre\"": "Supernatural",
+   "Tim Genre": "comedy",
+   "Tim": 2.8,
+   "Tyler Genre": "Revolutionary Film Making Plan 17:  Plot and character development are hard and require skill and forethought.  What if we made a movie, but any time we would do one of those, we substitute in jump scares?",
+   "Tyler": 3.2
+ },
+ {
+   "Date": "2/9/18",
+   "Name": "Fifty Shades Freed",
+   "\"Genre\"": "Erotic",
+   "Tim Genre": "Education: Relationships 301",
+   "Tim": 5.318008,
+   "Tyler Genre": "I came, I saw, I came",
+   "Tyler": 3.9
+ },
+ {
+   "Date": "2/9/18",
+   "Name": "The 15:17 To Paris",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "Thriller (I swear there's something interesting for the first hour /s)",
+   "Tim": 5.4,
+   "Tyler Genre": "Mostly establishing shots of Italy",
+   "Tyler": 3.9
+ },
+ {
+   "Date": "2/9/18",
+   "Name": "Peter Rabbit",
+   "\"Genre\"": "CGI-Live Action",
+   "Tim Genre": "Horror",
+   "Tim": 6.3,
+   "Tyler Genre": "Slasher Film",
+   "Tyler": 5.3
+ },
+ {
+   "Date": "2/16/18",
+   "Name": "Black Panther",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Marvel",
+   "Tim": 8.7,
+   "Tyler Genre": "Marvel Luther King",
+   "Tyler": 9
+ },
+ {
+   "Date": "2/16/18",
+   "Name": "Early Man",
+   "\"Genre\"": "Animation",
+   "Tim Genre": "Something",
+   "Tim": 7.3,
+   "Tyler Genre": "Ardman",
+   "Tyler": 8.3
+ },
+ {
+   "Date": "2/23/18",
+   "Name": "Annihilation",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "What just happened",
+   "Tim": 8.3,
+   "Tyler Genre": "Oscar Isaac 2",
+   "Tyler": 8.7
+ },
+ {
+   "Date": "2/23/18",
+   "Name": "Every Day",
+   "\"Genre\"": "Teen",
+   "Tim Genre": "for the glory of Satan, of course!",
+   "Tim": 7.1,
+   "Tyler Genre": "I'm shuffling (bodies)",
+   "Tyler": 8.8
+ },
+ {
+   "Date": "2/23/18",
+   "Name": "Game Night",
+   "\"Genre\"": "Mystery",
+   "Tim Genre": "When in doubt, repeat the same plot device",
+   "Tim": 8.4,
+   "Tyler Genre": "Eagles are Turning People Into Horses",
+   "Tyler": 8.9
+ },
+ {
+   "Date": "3/2/18",
+   "Name": "Death Wish",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Advertisement (tactical furniture)",
+   "Tim": 7.3,
+   "Tyler Genre": "Bruce Willis lies about age",
+   "Tyler": 8
+ },
+ {
+   "Date": "3/2/18",
+   "Name": "Red Sparrow",
+   "\"Genre\"": "Spy",
+   "Tim Genre": "Medical Drama",
+   "Tim": 7.8,
+   "Tyler Genre": "50 Shades of Red",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "3/9/18",
+   "Name": "A Wrinkle in Time",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Imperfectly imperfect",
+   "Tim": 5.4,
+   "Tyler Genre": "Better than average episode of Oprah",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "3/9/18",
+   "Name": "The Strangers: Prey at Night",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "Even girls can play baseball",
+   "Tim": 2.5,
+   "Tyler Genre": "Music Video",
+   "Tyler": 3.5
+ },
+ {
+   "Date": "3/9/18",
+   "Name": "Gringo",
+   "\"Genre\"": "Dark Comedy",
+   "Tim Genre": "Comparison of fruits vs vegetables",
+   "Tim": 5.8,
+   "Tyler Genre": "Seatbelt commercial",
+   "Tyler": 9.2
+ },
+ {
+   "Date": "3/9/18",
+   "Name": "The Hurricane Heist",
+   "\"Genre\"": "Heist",
+   "Tim Genre": "football documentary",
+   "Tim": 7.1,
+   "Tyler Genre": "My accent has a PhD",
+   "Tyler": 7.8
+ },
+ {
+   "Date": "3/16/18",
+   "Name": "Tomb Raider",
+   "\"Genre\"": "Video Game",
+   "Tim Genre": "mistaken identity",
+   "Tim": 8.9,
+   "Tyler Genre": "QuickTime Events, The Movie",
+   "Tyler": 6.5
+ },
+ {
+   "Date": "3/16/18",
+   "Name": "Love, Simon",
+   "\"Genre\"": "Coming-of-Age",
+   "Tim Genre": "4/9/04 1-844-373-9922",
+   "Tim": 6.5,
+   "Tyler Genre": "Hah, GAAAAAAAAAAAY!!!!",
+   "Tyler": 7.2
+ },
+ {
+   "Date": "3/23/18",
+   "Name": "Pacific Rim: Uprising",
+   "\"Genre\"": "3D",
+   "Tim Genre": "They're gonna combine!!",
+   "Tim": 6.2,
+   "Tyler Genre": "Commercial for Trojan: Magnum",
+   "Tyler": 8.9
+ },
+ {
+   "Date": "3/23/18",
+   "Name": "Midnight Sun",
+   "\"Genre\"": "Teen",
+   "Tim Genre": "Medical Documentary",
+   "Tim": 3.4,
+   "Tyler Genre": "Art film exploring a world in which covering yourself with a blanket is impossible",
+   "Tyler": 4.4
+ },
+ {
+   "Date": "3/23/18",
+   "Name": "Sherlock Gnomes",
+   "\"Genre\"": "Animation",
+   "Tim Genre": "Maybe our Target audience hasn't seen this plot yet!",
+   "Tim": 5,
+   "Tyler Genre": "Experimental art piece examining how predictable you can make plot twists.",
+   "Tyler": 5.1
+ },
+ {
+   "Date": "3/23/18",
+   "Name": "Isle of Dogs",
+   "\"Genre\"": "Stop-motion",
+   "Tim Genre": "conspiracy",
+   "Tim": 9.4,
+   "Tyler Genre": "The Prince and the Pauper",
+   "Tyler": 9.4
+ },
+ {
+   "Date": "3/23/18",
+   "Name": "Unsane",
+   "\"Genre\"": "Psychological Thriller",
+   "Tim Genre": "Mr stalker RIGHT BEHIND YOU",
+   "Tim": 5.9,
+   "Tyler Genre": "One Flew Over the Stalker's Nest",
+   "Tyler": 3.8
+ },
+ {
+   "Date": "3/29/18",
+   "Name": "Ready Player One",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Mad Max II",
+   "Tim": 8.6,
+   "Tyler Genre": "VFX Showcase",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "3/30/18",
+   "Name": "Acrimony",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Dictionary",
+   "Tim": 1.3,
+   "Tyler Genre": "There's just not a huge market for perpetual motion devices",
+   "Tyler": 4.4
+ },
+ {
+   "Date": "4/6/18",
+   "Name": "A Quiet Place",
+   "\"Genre\"": "Suspense",
+   "Tim Genre": "Misunderstood alien seeking A Quiet Place",
+   "Tim": 7.4,
+   "Tyler Genre": "The Office, season 31",
+   "Tyler": 8.3
+ },
+ {
+   "Date": "4/6/18",
+   "Name": "Chappaquiddick",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "History class",
+   "Tim": 6.1,
+   "Tyler Genre": "All Star Comedy",
+   "Tyler": 6.5
+ },
+ {
+   "Date": "4/6/18",
+   "Name": "Blockers",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "Cumming of age",
+   "Tim": 5.9,
+   "Tyler Genre": "After School Special",
+   "Tyler": 8.1
+ },
+ {
+   "Date": "4/13/18",
+   "Name": "Rampage",
+   "\"Genre\"": "Video Game",
+   "Tim Genre": "Cooking",
+   "Tim": 6.4,
+   "Tyler Genre": "Kong: Skull Island",
+   "Tyler": 5.2
+ },
+ {
+   "Date": "4/13/18",
+   "Name": "Blumhouse's Truth Or Dare",
+   "\"Genre\"": "Supernatural",
+   "Tim Genre": "Jumanji 2",
+   "Tim": 6.9,
+   "Tyler Genre": "Never press your advantage",
+   "Tyler": 6.4
+ },
+ {
+   "Date": "4/20/18",
+   "Name": "I Feel Pretty",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "medical marvel",
+   "Tim": 4.1,
+   "Tyler Genre": "Morality tale about the virtue of conceit",
+   "Tyler": 6.7
+ },
+ {
+   "Date": "4/20/18",
+   "Name": "Super Troopers 2",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "Horror",
+   "Tim": 6.8,
+   "Tyler Genre": "Duddly Dooright spinoff",
+   "Tyler": 6.9
+ },
+ {
+   "Date": "4/27/18",
+   "Name": "Avengers: Infinity War",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "I mean... ok...",
+   "Tim": 9.2,
+   "Tyler Genre": "Deathly Hallows part 1",
+   "Tyler": 9.3
+ },
+ {
+   "Date": "4/27/18",
+   "Name": "Traffik",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "The science behind headlights",
+   "Tim": 3.9,
+   "Tyler Genre": "Spotlights in Forests",
+   "Tyler": 4.3
+ },
+ {
+   "Date": "5/4/18",
+   "Name": "Overboard",
+   "\"Genre\"": "Romantic Comedy",
+   "Tim Genre": "Throne of lies",
+   "Tim": 7.2,
+   "Tyler Genre": "Scary Movie 5",
+   "Tyler": 7
+ },
+ {
+   "Date": "5/11/18",
+   "Name": "Life of the Party",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "what's the most important part of a joke timing, also puns apparently",
+   "Tim": 1.5,
+   "Tyler Genre": "Pandering",
+   "Tyler": 2.2
+ },
+ {
+   "Date": "5/11/18",
+   "Name": "Breaking In",
+   "\"Genre\"": "Suspense",
+   "Tim Genre": "disappointment",
+   "Tim": 5.8,
+   "Tyler Genre": "Home Alone 4: This Mom Doesn't Suck",
+   "Tyler": 5
+ },
+ {
+   "Date": "5/18/18",
+   "Name": "Deadpool 2",
+   "\"Genre\"": "Sequel",
+   "Tim Genre": "coming of age",
+   "Tim": 8.4,
+   "Tyler Genre": "Drugs, Sex, and Time Travel",
+   "Tyler": 9
+ },
+ {
+   "Date": "5/18/18",
+   "Name": "Show Dogs",
+   "\"Genre\"": "Family",
+   "Tim Genre": "YTMND",
+   "Tim": 4.1,
+   "Tyler Genre": "Miss(ter) Doggeniality",
+   "Tyler": 4.2
+ },
+ {
+   "Date": "5/18/18",
+   "Name": "Book Club",
+   "\"Genre\"": "Romance",
+   "Tim Genre": "would you like some cheese with that wine?",
+   "Tim": 6.2,
+   "Tyler Genre": "Yellowtail Commercial",
+   "Tyler": 8
+ },
+ {
+   "Date": "5/25/18",
+   "Name": "Solo: A Star Wars Story",
+   "\"Genre\"": "Spin-off",
+   "Tim Genre": "Duo",
+   "Tim": 7.7,
+   "Tyler Genre": "Community, Season 14",
+   "Tyler": 8
+ },
+ {
+   "Date": "6/1/18",
+   "Name": "Upgrade",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Intimidator",
+   "Tim": 8.5,
+   "Tyler Genre": "Kingsman 3: Welcome to Brooklyn",
+   "Tyler": 9.2
+ },
+ {
+   "Date": "6/1/18",
+   "Name": "Adrift",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "romcom",
+   "Tim": 6.5,
+   "Tyler Genre": "Horny",
+   "Tyler": 5
+ },
+ {
+   "Date": "6/1/18",
+   "Name": "Action Point",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "Dangers of OSHA",
+   "Tim": 4,
+   "Tyler Genre": "Johnny Knoxville",
+   "Tyler": 5
+ },
+ {
+   "Date": "6/8/18",
+   "Name": "Hereditary",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "For the glory of Satan, of course!",
+   "Tim": 7.77,
+   "Tyler Genre": "Nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope nope",
+   "Tyler": 6.5
+ },
+ {
+   "Date": "6/8/18",
+   "Name": "Ocean's 8",
+   "\"Genre\"": "Spin-off",
+   "Tim Genre": "Oceans 7+1",
+   "Tim": 8.6,
+   "Tyler Genre": "Chick flick",
+   "Tyler": 8.3
+ },
+ {
+   "Date": "6/8/18",
+   "Name": "Hotel Artemis",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Do not cross my line",
+   "Tim": 7.8,
+   "Tyler Genre": "Guardians of the Galaxy 3",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "6/15/18",
+   "Name": "The Incredibles 2",
+   "\"Genre\"": "3D",
+   "Tim Genre": "the twist seen from the start",
+   "Tim": 8.8,
+   "Tyler Genre": "Television kills",
+   "Tyler": 9
+ },
+ {
+   "Date": "6/15/18",
+   "Name": "Superfly",
+   "\"Genre\"": "Remake",
+   "Tim Genre": "How to remove a Confederate Statue",
+   "Tim": 7.2,
+   "Tyler Genre": "Shepard Book: Origens",
+   "Tyler": 8
+ },
+ {
+   "Date": "6/15/18",
+   "Name": "Tag",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "Would you like to play a game?",
+   "Tim": 8.2,
+   "Tyler Genre": "Getting cancer is cheating.",
+   "Tyler": 8.8
+ },
+ {
+   "Date": "6/15/18",
+   "Name": "Gotti",
+   "\"Genre\"": "Gangster",
+   "Tim Genre": "",
+   "Tim": "SLACKER - DID NOT SEE",
+   "Tyler Genre": "Clip show made of 80's news reel footage.",
+   "Tyler": 7
+ },
+ {
+   "Date": "6/22/18",
+   "Name": "Jurassic World: Fallen Kingdom",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "Dangers of household HCN",
+   "Tim": 6.8,
+   "Tyler Genre": "Exotic pet auction",
+   "Tyler": 7.2
+ },
+ {
+   "Date": "6/29/18",
+   "Name": "Sicario: Day of the Soldado ",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Sealand!",
+   "Tim": 7,
+   "Tyler Genre": "Racist",
+   "Tyler": 5.8
+ },
+ {
+   "Date": "6/29/18",
+   "Name": "Uncle Drew",
+   "\"Genre\"": "Sports",
+   "Tim Genre": "medical miracles, every one",
+   "Tim": 6.2,
+   "Tyler Genre": "Shaq-Fu: The Movie",
+   "Tyler": 7.7
+ },
+ {
+   "Date": "7/4/18",
+   "Name": "The First Purge",
+   "\"Genre\"": "Prequel",
+   "Tim Genre": "Bollywood fights meets Hollywood budget",
+   "Tim": 7.4,
+   "Tyler Genre": "We've always been at war with Eastside",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "7/6/18",
+   "Name": "Ant-Man and the Wasp",
+   "\"Genre\"": "Superhero",
+   "Tim Genre": "QUANTUM!!!1!111!!!!!1!1",
+   "Tim": 8.6,
+   "Tyler Genre": "Hotwheels: The Movie",
+   "Tyler": 7.6
+ },
+ {
+   "Date": "7/6/18",
+   "Name": "Sorry to Bother You",
+   "\"Genre\"": "Fantasy",
+   "Tim Genre": "ETSY: custom earrings",
+   "Tim": 6.7,
+   "Tyler Genre": "CEO's Are Turning People Into Horses",
+   "Tyler": 7.3
+ },
+ {
+   "Date": "7/13/18",
+   "Name": "Skyscraper",
+   "\"Genre\"": "3D",
+   "Tim Genre": "many uses for a prostatic leg",
+   "Tim": 8.3,
+   "Tyler Genre": "Rock disaster movie",
+   "Tyler": 6.9
+ },
+ {
+   "Date": "7/13/18",
+   "Name": "Hotel Transylvania 3: Summer Vacation",
+   "\"Genre\"": "Animation",
+   "Tim Genre": "OMGFURRIES",
+   "Tim": 7.1,
+   "Tyler Genre": "Racism is outta control",
+   "Tyler": 7
+ },
+ {
+   "Date": "7/20/18",
+   "Name": "Unfriended: Dark Web",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "1337 h4xorz",
+   "Tim": 7.2,
+   "Tyler Genre": "Morality tale about stealing",
+   "Tyler": 7
+ },
+ {
+   "Date": "7/20/18",
+   "Name": "The Equalizer 2",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "\"I'm not dead yet!\"",
+   "Tim": 7,
+   "Tyler Genre": "Black Man with the Dragon Tattoo",
+   "Tyler": 6.8
+ },
+ {
+   "Date": "7/20/18",
+   "Name": "Mamma Mia: Here We Go Again!",
+   "\"Genre\"": "Musical",
+   "Tim Genre": "spontaneous song==completely normal",
+   "Tim": 5.7,
+   "Tyler Genre": "I never do this, actually",
+   "Tyler": 6
+ },
+ {
+   "Date": "7/27/18",
+   "Name": "Mission: Impossible - Fallout",
+   "\"Genre\"": "Sequel",
+   "Tim Genre": "He's always a step ahead",
+   "Tim": 9.2,
+   "Tyler Genre": "Halloween simulator",
+   "Tyler": 8.6
+ },
+ {
+   "Date": "7/27/18",
+   "Name": "Teen Titans GO To the Movies",
+   "\"Genre\"": "Superhero",
+   "Tim Genre": "surprise musical",
+   "Tim": 6.6,
+   "Tyler Genre": "Hit or Miss",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "8/3/18",
+   "Name": "The Darkest Minds",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "RWBY with fewer symblances",
+   "Tim": 5.9,
+   "Tyler Genre": "The Divergent Games: Ranger of The Death Maze, part 6",
+   "Tyler": 6.6
+ },
+ {
+   "Date": "8/3/18",
+   "Name": "The Spy Who Dumped Me",
+   "\"Genre\"": "Spy",
+   "Tim Genre": "A bit much",
+   "Tim": 6.4,
+   "Tyler Genre": "A little bit much",
+   "Tyler": 7.8
+ },
+ {
+   "Date": "8/3/18",
+   "Name": "Disney's Christopher Robin",
+   "\"Genre\"": "Family",
+   "Tim Genre": "Dangers of capitalism",
+   "Tim": 7.7,
+   "Tyler Genre": "You start crying in the first 2 minutes and don't really stop.",
+   "Tyler": 8.7
+ },
+ {
+   "Date": "8/10/18",
+   "Name": "Slender Man",
+   "\"Genre\"": "Supernatural",
+   "Tim Genre": "Children's movie",
+   "Tim": 3.5,
+   "Tyler Genre": "Screaming as contraception",
+   "Tyler": 1.6
+ },
+ {
+   "Date": "8/10/18",
+   "Name": "The Meg",
+   "\"Genre\"": "IMAX",
+   "Tim Genre": "Umm.. because plot device! yeah.. that works.. right?",
+   "Tim": 6.1,
+   "Tyler Genre": "Chinese pandering",
+   "Tyler": 7.3
+ },
+ {
+   "Date": "8/10/18",
+   "Name": "BlacKkKlansman",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "DEFINITELY nothing like today's political world </s>",
+   "Tim": 8.1,
+   "Tyler Genre": "Danny Glover Cameos: Part 2",
+   "Tyler": 8
+ },
+ {
+   "Date": "8/15/18",
+   "Name": "Crazy Rich Asians",
+   "\"Genre\"": "Romantic Comedy",
+   "Tim Genre": "Don't Blink",
+   "Tim": 7.4,
+   "Tyler Genre": "Racism, but it's okay because they're a good minority.",
+   "Tyler": 7.1
+ },
+ {
+   "Date": "8/17/18",
+   "Name": "Alpha",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "what's time?",
+   "Tim": 6,
+   "Tyler Genre": "Nintendogs BCE",
+   "Tyler": 6.1
+ },
+ {
+   "Date": "8/17/18",
+   "Name": "Mile 22",
+   "\"Genre\"": "Action",
+   "Tim Genre": "Counting 123",
+   "Tim": 7.1,
+   "Tyler Genre": "Snapping a livestrong bracelet and cutting.",
+   "Tyler": 4.5
+ },
+ {
+   "Date": "8/24/18",
+   "Name": "The Happytime Murders",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Not a racial commentary",
+   "Tim": 6.5,
+   "Tyler Genre": "Vulgarity: The Movie",
+   "Tyler": 6.2
+ },
+ {
+   "Date": "8/24/18",
+   "Name": "A.X.L.",
+   "\"Genre\"": "Family",
+   "Tim Genre": "Robot dog? LET'S KILL IT",
+   "Tim": 7.1,
+   "Tyler Genre": "Autobikes, Xtreme, Labrodoodles",
+   "Tyler": 5.3
+ },
+ {
+   "Date": "8/29/18",
+   "Name": "Operation Finale",
+   "\"Genre\"": "True Story",
+   "Tim Genre": "Because Trump",
+   "Tim": 7,
+   "Tyler Genre": "Oscar Isaac is a Jew",
+   "Tyler": 7
+ },
+ {
+   "Date": "8/31/18",
+   "Name": "Kin",
+   "\"Genre\"": "IMAX",
+   "Tim Genre": "",
+   "Tim": "SLACKER - DID NOT SEE",
+   "Tyler Genre": "Daft Punk looking for lost equipment - a family drama",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "8/31/18",
+   "Name": "Searching",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "",
+   "Tim": "SLACKER - DID NOT SEE",
+   "Tyler Genre": "Denial's a heck of a drug",
+   "Tyler": 9.1
+ },
+ {
+   "Date": "9/7/18",
+   "Name": "Peppermint",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Jury annulment",
+   "Tim": 7.8,
+   "Tyler Genre": "Shooty shooty boom boom lady",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "9/7/18",
+   "Name": "The Nun",
+   "\"Genre\"": "IMAX",
+   "Tim Genre": "But what is reality?",
+   "Tim": 5,
+   "Tyler Genre": "Let's split up gang",
+   "Tyler": 4.2
+ },
+ {
+   "Date": "9/14/18",
+   "Name": "A Simple Favor",
+   "\"Genre\"": "Suspense",
+   "Tim Genre": "It's over 9000!",
+   "Tim": 7.7,
+   "Tyler Genre": "Lemony Snicket style triplets, actually",
+   "Tyler": 8.1
+ },
+ {
+   "Date": "9/14/18",
+   "Name": "The Predator",
+   "\"Genre\"": "Sci-Fi",
+   "Tim Genre": "plot device puppy",
+   "Tim": 8.3,
+   "Tyler Genre": "Ironman Prequel",
+   "Tyler": 8.7
+ },
+ {
+   "Date": "9/14/18",
+   "Name": "White Boy Rick",
+   "\"Genre\"": "Crime",
+   "Tim Genre": "Drugs are bad, mmkay?",
+   "Tim": 6,
+   "Tyler Genre": "Problems that could have been solved with grenades, not being solved with grenades",
+   "Tyler": 6.1
+ },
+ {
+   "Date": "9/21/18",
+   "Name": "The House with a Clock in its Walls",
+   "\"Genre\"": "Supernatural",
+   "Tim Genre": "Who would win: doomsday clock vs one little dicey boi",
+   "Tim": 8.2,
+   "Tyler Genre": "Kid's mouth gets big when he cries",
+   "Tyler": 7.1
+ },
+ {
+   "Date": "9/28/18",
+   "Name": "Hellfest",
+   "\"Genre\"": "Horror",
+   "Tim Genre": "cross my heart and hope to die",
+   "Tim": 7,
+   "Tyler Genre": "Discount Amanda Bynes",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "9/28/18",
+   "Name": "Smallfoot",
+   "\"Genre\"": "Animation",
+   "Tim Genre": "Illuminati",
+   "Tim": 7.4,
+   "Tyler Genre": "Telling the truth makes everything worse",
+   "Tyler": 6.2
+ },
+ {
+   "Date": "9/28/18",
+   "Name": "Night School",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "people don't age",
+   "Tim": 4.6,
+   "Tyler Genre": "I piss on your willing suspension of disbelief",
+   "Tyler": 4.4
+ },
+ {
+   "Date": "10/5/18",
+   "Name": "The Hate U Give",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Milk",
+   "Tim": 6.7,
+   "Tyler Genre": "Questionable equivalences",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "10/5/18",
+   "Name": "Venom",
+   "\"Genre\"": "Action",
+   "Tim Genre": "Parasite Documentary",
+   "Tim": 7.2,
+   "Tyler Genre": "Way better than expected, but awful in new and exciting ways I couldn't have imagined",
+   "Tyler": 6.9
+ },
+ {
+   "Date": "10/5/18",
+   "Name": "A Star is Born",
+   "\"Genre\"": "Drama",
+   "Tim Genre": ";",
+   "Tim": 8.3,
+   "Tyler Genre": "Cowboys vs Pop Idols",
+   "Tyler": 7.7
+ },
+ {
+   "Date": "10/12/18",
+   "Name": "Goosebumps: Haunted Halloween",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Annabelle did it better",
+   "Tim": 3.6,
+   "Tyler Genre": "My father went for cigarettes back in October, and I haven't seen him since.  #StayingWithMyBestie #WhiteChristmas",
+   "Tyler": 4.1
+ },
+ {
+   "Date": "10/12/18",
+   "Name": "Bad Times at the El Royale",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "A 90 minute movie crammed into 150 minutes",
+   "Tim": 5.5,
+   "Tyler Genre": "Very pretty and pretty pointless",
+   "Tyler": 6.3
+ },
+ {
+   "Date": "10/12/18",
+   "Name": "First Man",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Neal Armstrong did it first",
+   "Tim": 7.6,
+   "Tyler Genre": "Space people are dicks",
+   "Tyler": 6.1
+ },
+ {
+   "Date": "10/19/18",
+   "Name": "Halloween",
+   "\"Genre\"": "Sequel",
+   "Tim Genre": "I hate to say I told you so",
+   "Tim": 7.5,
+   "Tyler Genre": "It's not paranoia if there really is a psychopath impervious to bullets trying to murder my family",
+   "Tyler": 8
+ },
+ {
+   "Date": "10/26/18",
+   "Name": "Hunter Killer",
+   "\"Genre\"": "Action",
+   "Tim Genre": "Not so much killer",
+   "Tim": 7.8,
+   "Tyler Genre": "Outcome Bias - The Movie",
+   "Tyler": 7.1
+ },
+ {
+   "Date": "10/26/18",
+   "Name": "Johnny English Strikes Again",
+   "\"Genre\"": "Action",
+   "Tim Genre": "https://xkcd.com/908/",
+   "Tim": 3.1,
+   "Tyler Genre": "Deus ex Machina where the god in question is a drunken idiot",
+   "Tyler": 5.1
+ },
+ {
+   "Date": "11/2/18",
+   "Name": "The Nutcracker and the Four Realms",
+   "\"Genre\"": "Fantasy",
+   "Tim Genre": "clever girl",
+   "Tim": 6.7,
+   "Tyler Genre": "Santa Claus 2 reboot",
+   "Tyler": 4.6
+ },
+ {
+   "Date": "11/2/18",
+   "Name": "Bohemian Rhapsody",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Family",
+   "Tim": 8.2,
+   "Tyler Genre": "Fast and the Fairyest",
+   "Tyler": 9.3
+ },
+ {
+   "Date": "11/2/18",
+   "Name": "Nobody's Fool",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Overkill, on time and content",
+   "Tim": 4.1,
+   "Tyler Genre": "What if, instead of one ending, we had 9?",
+   "Tyler": 2.9
+ },
+ {
+   "Date": "11/9/18",
+   "Name": "Overlord",
+   "\"Genre\"": "Action",
+   "Tim Genre": "zombies",
+   "Tim": 5.8,
+   "Tyler Genre": "Nazi saw Spiderman 1 and thought the Green Goblin did the right thing.",
+   "Tyler": 4.9
+ },
+ {
+   "Date": "11/9/18",
+   "Name": "Dr. Seuss' the Grinch",
+   "\"Genre\"": "Fantasy",
+   "Tim Genre": "Grooming",
+   "Tim": 5,
+   "Tyler Genre": "Pretty good rap album",
+   "Tyler": 5.8
+ },
+ {
+   "Date": "11/9/18",
+   "Name": "The Girl in the Spider's Web",
+   "\"Genre\"": "Action",
+   "Tim Genre": "romantic comedy",
+   "Tim": 6.5,
+   "Tyler Genre": "In the end, twas coincidence that killed the beast.",
+   "Tyler": 7
+ },
+ {
+   "Date": "11/16/18",
+   "Name": "Fantastic Beasts: The Crimes of Grindelwald",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Police Brutality",
+   "Tim": 8.6,
+   "Tyler Genre": "Honestly, other than a prison break, I'm not sure he actually commits any crimes in this movie...",
+   "Tyler": 8.3
+ },
+ {
+   "Date": "11/16/18",
+   "Name": "Instant Family",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "Nothing makes your family love you with a nailgun to the foot",
+   "Tim": 7.7,
+   "Tyler Genre": "You know how the humane society puts out a cage for puppies in front of the Whole Foods...",
+   "Tyler": 7.9
+ },
+ {
+   "Date": "11/16/18",
+   "Name": "Green Book",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "See?!? Even successful people drink",
+   "Tim": 8.1,
+   "Tyler Genre": "Racist against Italians",
+   "Tyler": 8.5
+ },
+ {
+   "Date": "11/16/18",
+   "Name": "Widows",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "Dog movie",
+   "Tim": 7.2,
+   "Tyler Genre": "Liam Neeson doesn't even Liam Neeson in this movie!",
+   "Tyler": 8.7
+ },
+ {
+   "Date": "11/18/18",
+   "Name": "The Possesion of Hannah Grace",
+   "\"Genre\"": "Thriller",
+   "Tim Genre": "WTF!?! LIGHTS?!?",
+   "Tim": 7.2,
+   "Tyler Genre": "This borrows so much from \"The Autopsy of Jane Doe,\" I think it might genuinely be a remake.",
+   "Tyler": 4.7
+ },
+ {
+   "Date": "11/21/18",
+   "Name": "Robin Hood",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "EXPLOSIONS",
+   "Tim": 7.5,
+   "Tyler Genre": "Michael Moore documentary",
+   "Tyler": 7.4
+ },
+ {
+   "Date": "11/21/18",
+   "Name": "Ralph Breaks the Internet",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Dat product placement",
+   "Tim": 8.4,
+   "Tyler Genre": "Couldn't get Google on board I see...",
+   "Tyler": 8.6
+ },
+ {
+   "Date": "11/21/18",
+   "Name": "Creed II",
+   "\"Genre\"": "Action",
+   "Tim Genre": "Family movie",
+   "Tim": 8.3,
+   "Tyler Genre": "Little Mac 4",
+   "Tyler": 7.6
+ },
+ {
+   "Date": "11/21/18",
+   "Name": "The Front-Runner",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "psh, people just care about my positions!",
+   "Tim": 7.4,
+   "Tyler Genre": "Hahaha, look, how cute, they think it's scandal.",
+   "Tyler": 7.7
+ },
+ {
+   "Date": "12/14/18",
+   "Name": "Mortal Engines",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Deus ex mother",
+   "Tim": 7.3,
+   "Tyler Genre": "TODO:  Fix consistency issue where character motivations and world building are completely broken.",
+   "Tyler": 5.1
+ },
+ {
+   "Date": "12/14/18",
+   "Name": "Spider-Man: Into the Spider-Verse",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "something something no rights to Looney Tunes",
+   "Tim": 8.6,
+   "Tyler Genre": "Simpsons spin-off",
+   "Tyler": 9.2
+ },
+ {
+   "Date": "12/14/18",
+   "Name": "The Mule",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Drugs are bad, mkayyyyy",
+   "Tim": 7.5,
+   "Tyler Genre": "Found footage of Clint Eastwood",
+   "Tyler": 6.9
+ },
+ {
+   "Date": "12/19/18",
+   "Name": "Mary Poppins Returns",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Lamplighter Army",
+   "Tim": 8.3,
+   "Tyler Genre": "Tears by checklist",
+   "Tyler": 8.5
+ },
+ {
+   "Date": "12/21/18",
+   "Name": "Aquaman",
+   "\"Genre\"": "Action",
+   "Tim Genre": "Fiction: no superhero can have both parents alive",
+   "Tim": 7.8,
+   "Tyler Genre": "Good movie except for the extra sideplot with Moana's grandmother.",
+   "Tyler": 7.5
+ },
+ {
+   "Date": "12/21/18",
+   "Name": "Bumblebee",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Explosive-proof dumpsters‽",
+   "Tim": 6.5,
+   "Tyler Genre": "A.X.L but worse",
+   "Tyler": 4.9
+ },
+ {
+   "Date": "12/21/18",
+   "Name": "Welcome to Marwen",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "Deus ex amnesia//A LIGHT-YEAR ISN'T TIME",
+   "Tim": 3.5,
+   "Tyler Genre": "I feel like originally the Russian lady had a lot more scenes...",
+   "Tyler": 4.3
+ },
+ {
+   "Date": "12/21/18",
+   "Name": "Second Act",
+   "\"Genre\"": "Comedy",
+   "Tim Genre": "A Series of Fortunate Events",
+   "Tim": 4.1,
+   "Tyler Genre": "Well... that worked out",
+   "Tyler": 4.1
+ },
+ {
+   "Date": "12/25/18",
+   "Name": "Vice",
+   "\"Genre\"": "Drama",
+   "Tim Genre": "supernatural, unholy powers manifested in human form",
+   "Tim": 8,
+   "Tyler Genre": "Lucy but better and without mind powers",
+   "Tyler": 7.9
+ },
+ {
+   "Date": "12/25/18",
+   "Name": "Holmes & Watson",
+   "\"Genre\"": "Adventure",
+   "Tim Genre": "Musical.. wtf...",
+   "Tim": 1.9,
+   "Tyler Genre": "Lauren Lapkus was funny at least??",
+   "Tyler": 3
+ }
+]

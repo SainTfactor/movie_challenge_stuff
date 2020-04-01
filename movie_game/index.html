@@ -1,0 +1,126 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <style>    
+        h1, h2, h3, h4 {
+            color: #2B0F86;
+            text-align: center;
+        }
+        .game {
+            text-align: center;
+        }
+        
+        #start {
+            margin-top:30px;
+            padding: 10px 30px;
+            font-size: 22px;
+        }
+        #advance_game, #show_hint {
+            margin-top:30px;
+            padding: 10px 18px;
+            font-size: 22px;
+        }
+        
+        .tims_stuff, .tylers_stuff {
+            margin-top:30px;
+        }
+        
+        #answer { 
+            font-size: 35;
+            font-weight: bold;
+            margin-top:15px;
+            color: #2B0F86;
+        }
+        #hint { 
+            font-size: 25;
+            margin-top:15px;
+            color: #573DAC;
+        }
+        
+        .panel2 {
+            display: none;
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>Tyler and Tim's movie guessing game</h1>
+            </div>
+            <div class="col-xs-12 game panel1">
+                <button type="button" class="btn btn-primary" id="start">Click to Start</button>
+            </div>
+            <div class="col-xs-6 game panel2 tims_stuff">
+                <h2>Tim</h2>
+                <div class="description"></div>
+                <div class="score"></div>
+            </div>
+            <div class="col-xs-6 game panel2 tylers_stuff">
+                <h2>Tyler</h2>
+                <div class="description"></div>
+                <div class="score"></div>            
+            </div>
+            <div class="col-xs-12 game panel2 game_stuff">
+                <div id="hint" style="display:none"></div>
+                <div id="answer" style="display:none"></div>
+                <button id="show_hint" class="btn btn-primary">Show Hint</button>
+                <button id="advance_game" class="btn btn-primary">Show Answer</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var movie_array = undefined;
+        var current_state = "Starting"
+    
+        var new_question = function() {
+            var random_entry_index = Math.floor(Math.random() * movie_array.length);
+            var random_entry = movie_array[random_entry_index];
+            $("#answer").css("display", "none");
+            $("#hint").css("display", "none");
+            $("#show_hint").css("display", "inline-block");
+            $(".tims_stuff .description").html(random_entry["Tim Genre"]);
+            $(".tims_stuff .score").html(random_entry["Tim"]);
+            $(".tylers_stuff .description").html(random_entry["Tyler Genre"]);
+            $(".tylers_stuff .score").html(random_entry["Tyler"]);
+            $("#hint").html(random_entry["\"Genre\""] + " - " + random_entry["Date"])
+            $("#answer").html(random_entry["Name"])
+        }
+        
+        $.getJSON("moviejson.json", function(data){
+            movie_array = data;
+        });
+        
+        $("#start").on("click", function(){
+            $(".panel1").css("display", "none");
+            $(".panel2").css("display", "block"); 
+
+            current_state = "Question"
+            new_question();
+        });
+        
+        $("#advance_game").on("click", function(){
+            if(current_state == "Question"){
+                $("#answer").css("display", "block");
+                $("#advance_game").html("Next Question");
+                current_state = "Answer"
+            } else {
+                new_question();
+                $("#advance_game").html("Show Answer");
+                current_state = "Question"
+            }
+        });
+        $("#show_hint").on("click", function(){
+            $("#show_hint").css("display", "none");
+            $("#hint").css("display", "block");            
+        });
+    </script>
+</body>
+</html>
